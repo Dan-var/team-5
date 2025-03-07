@@ -70,10 +70,11 @@ class Program
 {
     static void Main()
     {
-        User user = new User(1, "Ivan");
+        User user = new User(1, "Mykhailo");
         user.AddExpense(100, "Groceries");
-        user.AddExpense(50, "Transport");
+        user.AddExpense(9999, "Pet shop");
         user.ShowExpenses();
         Console.WriteLine($"Total expenses: {user.GetTotalExpenses()} UAH");
     }
 }
+// ettere

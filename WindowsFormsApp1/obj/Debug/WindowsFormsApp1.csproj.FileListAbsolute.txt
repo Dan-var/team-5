@@ -7,3 +7,11 @@ C:\Users\mtomk\source\repos\team-5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.e
 C:\Users\mtomk\source\repos\team-5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
 C:\Users\mtomk\source\repos\team-5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\mtomk\source\repos\team-5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\mtomk\Source\Repos\team-5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SignUpForm.resources
+C:\Users\mtomk\Source\Repos\team-5\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\mtomk\Source\Repos\team-5\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\mtomk\Source\Repos\team-5\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mtomk\Source\Repos\team-5\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mtomk\Source\Repos\team-5\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\mtomk\Source\Repos\team-5\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\mtomk\Source\Repos\team-5\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date

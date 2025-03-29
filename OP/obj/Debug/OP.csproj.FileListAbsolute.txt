@@ -1,0 +1,11 @@
+D:\kpi2\c#\OP\obj\Debug\OP.csproj.AssemblyReference.cache
+D:\kpi2\c#\OP\obj\Debug\OP.login_form.resources
+D:\kpi2\c#\OP\obj\Debug\OP.Properties.Resources.resources
+D:\kpi2\c#\OP\obj\Debug\OP.csproj.GenerateResource.cache
+D:\kpi2\c#\OP\obj\Debug\OP.csproj.CoreCompileInputs.cache
+D:\kpi2\c#\OP\bin\Debug\OP.exe.config
+D:\kpi2\c#\OP\bin\Debug\OP.exe
+D:\kpi2\c#\OP\bin\Debug\OP.pdb
+D:\kpi2\c#\OP\obj\Debug\OP.exe
+D:\kpi2\c#\OP\obj\Debug\OP.pdb
+D:\kpi2\c#\OP\obj\Debug\OP.login_form_admin.resources
